@@ -5,7 +5,7 @@ websites ranging from personal weblogs to large community-driven websites. For
 more information, visit the Drupal website, [Drupal.org][Drupal.org], and join
 the [Drupal community][Drupal community].
 
-## Contributing
+## Contributing :-
 
 Drupal is developed on [Drupal.org][Drupal.org], the home of the international
 Drupal community since 2001!
@@ -19,7 +19,7 @@ Every issue on Drupal.org automatically creates a new community-accessible fork
 that you can contribute to. Learn more about the code contribution process on
 the [Issue forks & merge requests page][issue forks].
 
-## Usage
+## Usage :-
 
 For a brief introduction, see [USAGE.txt](/core/USAGE.txt). You can also find
 guides, API references, and more by visiting Drupal's [documentation
@@ -36,7 +36,7 @@ Drupal keeps detailed [change records][changelog]. You can search Drupal's
 changes for a record of every notable breaking change and new feature since
 2011.
 
-## Security
+## Security :-
 
 For a list of security announcements, see the [Security advisories
 page][Security advisories] (available as [an RSS feed][security RSS]). This
@@ -52,7 +52,7 @@ Visit the [Support page][support] or browse [over a thousand Drupal
 providers][service providers] offering design, strategy, development, and
 hosting services.
 
-## Legal matters
+## Legal matters :-
 
 Know your rights when using Drupal by reading Drupal core's
 [license](/core/LICENSE.txt).
